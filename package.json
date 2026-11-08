@@ -1,0 +1,13 @@
+
+{
+  "name": "galaxy-free-fire-server",
+  "version": "1.0.0",
+  "description": "GALAXY FREE FIRE multiplayer server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
